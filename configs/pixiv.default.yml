@@ -15,4 +15,5 @@ account:
   token: "RlfuE7I708YvpFCoKuTYu_kKqGzXVRnfELax0IjdPwY" # Pixiv Refresh Token
   refresh-interval: 1800 # 刷新帐号登录凭证间隔,单位为秒
 
+
 language: zh-cn # 返回语言, 会影响标签的翻译
