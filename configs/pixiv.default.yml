@@ -11,7 +11,7 @@ proxy: {}
 
 account:
   username: "756176532@qq.com" # Pixiv帐号 (Deprecated)
-  password: "zhaolong123" # Pixiv密码 (Deprecated)
+  password: "xp2015zl" # Pixiv密码 (Deprecated)
   token: "RlfuE7I708YvpFCoKuTYu_kKqGzXVRnfELax0IjdPwY" # Pixiv Refresh Token
   refresh-interval: 1800 # 刷新帐号登录凭证间隔,单位为秒
 
